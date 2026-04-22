@@ -1,5 +1,5 @@
 public Troco {
-    public double Troco (double n) {
+    public static Troco (int n) {
         
     }
 }
