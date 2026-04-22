@@ -30,7 +30,10 @@ public class Troco {
     }
 
     public static void main(String[] args) {
-        int moedas[] = { 100, 20, 10, 5, 1 }; // conjunto de moedas
+        //int moedas[] = { 100, 25, 10, 5, 1 }; // conjunto de moedas
+        //int moedas[] = { 100, 20, 10, 5, 1 };
+        int moedas[] = { 100, 30, 25, 10, 5, 1 };
+
         int valor = 289;
         List<Integer> resultado = DaTroco(moedas, valor);
 
